@@ -9,9 +9,9 @@ h1{
     color: green;
 }
 
-.Top-banner{
+.flex-container{
     display: flex;
-    margin-bottom: 90px; 
+    margin-bottom: 50px; 
 }
 
 .half-width1{
@@ -27,6 +27,7 @@ h1{
     width: 50%;
     padding-left: 2%;
     padding-right: 15%;
+    padding-top: 5%;
 }
 
 .half-width img{
@@ -45,5 +46,26 @@ h1{
     border-radius: 7px;
     color: rgb(18, 65, 22);
     font-weight: 700;
-
 }
+
+.about-me img{
+    width: 50%;
+    padding-left: 35%;
+    padding-right: 15%;
+    height: 80%;
+}
+
+p{
+    text-align: justify;
+    font-size: 20px;
+}
+
+.about-me{
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 77%;
+    
+}
+
+
